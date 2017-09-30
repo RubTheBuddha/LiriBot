@@ -1,34 +1,22 @@
 {
-  "name": "liri-node-app",
+  "name": "daspfksl",
   "version": "1.0.0",
-  "description": "LIRI will be a command line node app that takes in parameters from user and give back data",
-  "main": "liri.js",
-  "dependencies": {
-    "node-spotify-api": "^1.0.7",
-    "request": "^2.82.0",
-    "twitter": "^1.7.1"
-  },
-  "devDependencies": {},
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkruel8100/liri-node-app.git"
+    "url": "git+https://github.com/RubTheBuddha/LiriBot.git"
   },
-  "keywords": [
-    "liri",
-    "language",
-    "interpretation",
-    "recognition",
-    "interface",
-    "node",
-    "app"
-  ],
-  "author": "Kimberly Kruel",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kkruel8100/liri-node-app/issues"
+    "url": "https://github.com/RubTheBuddha/LiriBot/issues"
   },
-  "homepage": "https://github.com/kkruel8100/liri-node-app#readme"
+  "homepage": "https://github.com/RubTheBuddha/LiriBot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
 }
